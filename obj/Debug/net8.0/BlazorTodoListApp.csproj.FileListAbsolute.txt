@@ -27,3 +27,4 @@ C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Blaz
 C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\BlazorTodoListApp\obj\Debug\net8.0\BlazorTodoListApp.pdb
 C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\BlazorTodoListApp\obj\Debug\net8.0\BlazorTodoListApp.genruntimeconfig.cache
 C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\BlazorTodoListApp\obj\Debug\net8.0\ref\BlazorTodoListApp.dll
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\BlazorTodoListApp\obj\Debug\net8.0\BlazorTodoListApp.sourcelink.json
